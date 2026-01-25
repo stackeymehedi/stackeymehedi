@@ -57,9 +57,9 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 </p>
 
 
-<p align="left">
+<!-- <p align="left">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rony-sda&theme=github-compact" width="100%"/>
-</p>
+</p> -->
 
 
 
