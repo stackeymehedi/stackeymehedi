@@ -11,14 +11,12 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 
 
 <p align="center"> 
- <a href="https://twitter.com/rony_sda" target="blank">
-  <img src="https://img.shields.io/twitter/follow/rony_sda?logo=twitter&style=for-the-badge" alt="rony_sda" />
- </a> &nbsp;
-  <a href="mailto:mehedihasan20330@gmail.com">
+
+  <a href="mailto:iammehedirony@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> &nbsp;
   
-  <a href="https://www.linkedin.com/in/rony-sda" >
+  <a href="https://www.linkedin.com/in/stackeymehedi" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -27,33 +25,33 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 
 
 <h2 align="center">
-  <img src="https://github.com/rony-sda/rony-sda/blob/main/img/tech.gif" width="40" height="40" /> <br/> Tech and Tools
+  <img src="https://github.com/stackeymehedi/stackeymehedi/blob/main/img/tech.gif" width="40" height="40" /> <br/> Tech and Tools
 </h2>
 
 
 <div align="center">
 
- <img src="https://github.com/rony-sda/rony-sda/blob/main/img/javascript.png" width="30"> &nbsp; &nbsp; 
- <img src="https://github.com/rony-sda/rony-sda/blob/main/img/typescript.png" width="30"> &nbsp; &nbsp;
- <img src="https://github.com/rony-sda/rony-sda/blob/main/img/react.gif" width="30"> &nbsp; &nbsp; 
- <img src="https://github.com/rony-sda/rony-sda/blob/main/img/node.gif" width="30"> &nbsp; &nbsp; 
- <img src="https://github.com/rony-sda/rony-sda/blob/main/img/express.gif" width="40"> &nbsp; &nbsp; 
- <img src="https://github.com/rony-sda/rony-sda/blob/main/img/mongodb.gif" width="30"> &nbsp; &nbsp; 
- <img src="https://github.com/rony-sda/rony-sda/blob/main/img/html.gif" width="30"> &nbsp; &nbsp; 
- <img src="https://github.com/rony-sda/rony-sda/blob/main/img/css.gif" width="30"> &nbsp; &nbsp; 
- <img src="https://github.com/rony-sda/rony-sda/blob/main/img/git.gif" width="45"> &nbsp; &nbsp; 
- <img src="https://github.com/rony-sda/rony-sda/blob/main/img/Prisma.svg" width="20"> &nbsp; &nbsp; 
- <img src="https://github.com/rony-sda/rony-sda/blob/main/img/docker.svg" width="30">
+ <img src="https://github.com/stackeymehedi/stackeymehedi/blob/main/img/javascript.png" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/stackeymehedi/stackeymehedi/blob/main/img/typescript.png" width="30"> &nbsp; &nbsp;
+ <img src="https://github.com/stackeymehedi/stackeymehedi/blob/main/img/react.gif" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/stackeymehedi/stackeymehedi/blob/main/img/node.gif" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/stackeymehedi/stackeymehedi/blob/main/img/express.gif" width="40"> &nbsp; &nbsp; 
+ <img src="https://github.com/stackeymehedi/stackeymehedi/blob/main/img/mongodb.gif" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/stackeymehedi/stackeymehedi/blob/main/img/html.gif" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/stackeymehedi/stackeymehedi/blob/main/img/css.gif" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/stackeymehedi/stackeymehedi/blob/main/img/git.gif" width="45"> &nbsp; &nbsp; 
+ <img src="https://github.com/stackeymehedi/stackeymehedi/blob/main/img/Prisma.svg" width="20"> &nbsp; &nbsp; 
+ <img src="https://github.com/stackeymehedi/stackeymehedi/blob/main/img/docker.svg" width="30">
 </div>
 
 
 <h2 align="center">
- <img src="https://github.com/rony-sda/rony-sda/blob/main/img/skills.gif" width="40"  height="40"/> <br/> Used Skills
+ <img src="https://github.com/stackeymehedi/stackeymehedi/blob/main/img/skills.gif" width="40"  height="40"/> <br/> Used Skills
 </h2>
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rony-sda&layout=compact&theme=dark" alt="Rony's Top Languages" height="200px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackeymehedi&layout=compact&theme=dark" alt="Rony's Top Languages" height="200px" />
 </p>
 
 
