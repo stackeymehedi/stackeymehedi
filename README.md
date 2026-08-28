@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=096FC8&center=true&vCenter=true&width=650&lines=Hi%20There!;I'm%20Mehedi%20Hasan" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=3CCF91&center=true&vCenter=true&width=650&lines=Hi%20There!;I'm%20Mehedi%20Hasan" alt="Typing introduction" />
 </p>
 
 <div align="center">
  
- **`Full-Stack Developer | Tech Enthusiast`**
+$\color{#3CCF91}{\textbf{\textsf{Full-Stack Developer | Tech Enthusiast}}}$
 
-I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.js, Next.js, Node.js & Express.js, MongoDB, Mongoose, Prisma. Currently, I'm studying Computer Science. I enjoy building responsive and user friendly applications and exploring new technologies to enhance my development workflow.
+**`I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.js, Next.js, Node.js & Express.js, MongoDB, Mongoose, Prisma. Currently, I'm studying Computer Science. I enjoy building responsive and user friendly applications and exploring new technologies to enhance my development workflow.`**
 </div>
 
 
@@ -25,7 +25,7 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 
 
 <h2 align="center">
-  <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/tech.gif" width="40" height="40" /> <br/> Tech and Tools
+  <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/tech.gif" width="40" height="40" /> <br/> $\color{#3CCF91}{\textsf{Tech and Tools}}$
 </h2>
 
 
@@ -46,7 +46,7 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 
 
 <h2 align="center">
- <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/skills.gif" width="40"  height="40"/> <br/> Used Skills
+ <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/skills.gif" width="40"  height="40"/> <br/>$\color{#3CCF91}{\textsf{Skills}}$
 </h2>
 
 
