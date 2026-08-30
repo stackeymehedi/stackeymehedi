@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=3CCF91&center=true&vCenter=true&width=650&lines=Hi%20There!;I'm%20Mehedi%20Hasan" alt="Typing introduction" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=3CCF91&center=true&vCenter=true&width=650&lines=Hi%20There!;I'm%20Mehedi%20Hasan;-%20Full%20Stack%20Engineer" alt="Typing introduction" />
 </p>
 
 <div align="center">
- 
-$\color{#3CCF91}{\textbf{\textsf{Full-Stack Developer | Tech Enthusiast}}}$
-
+  
 **`I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.js, Next.js, Node.js & Express.js, MongoDB, Mongoose, Prisma. Currently, I'm studying Computer Science. I enjoy building responsive and user friendly applications and exploring new technologies to enhance my development workflow.`**
+
 </div>
 
 
